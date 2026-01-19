@@ -25,7 +25,7 @@ data professionals across different roles, countries, and programming background
 - Country-wise respondent distribution
 - Favourite programming language and Corresponding Job Role of Survey Responders 
 
-### 2 – Career Satisfaction & Entry Difficulty**
+### 2 – Career Satisfaction & Entry Difficulty
 
 ![Page 2](Dashboards/Dashboard_2.png)
 - Satisfaction with current role
