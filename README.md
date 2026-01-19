@@ -4,11 +4,15 @@
 This project presents an interactive Power BI dashboard analyzing survey responses from
 data professionals across different roles, countries, and programming backgrounds.
 
+---
+
 ## Tools & Technologies
 - Power BI
 - Power Query (Data Cleaning & Transformation)
 - DAX (Calculated Measures)
 - Excel Dataset
+
+---
 
 ## Key Insights
 - Data Scientists report the highest average salaries among surveyed roles.
@@ -16,24 +20,35 @@ data professionals across different roles, countries, and programming background
 - Most respondents find breaking into data roles neither easy nor difficult.
 - Majority of survey responses come from the United States.
 
+---
+
 ## Dashboard Pages
 ### 1 – Executive Overview
 
-![Page 1](Dashboards/Dashboard_1.png)
 - Total respondents and average age
 - Average salary by job title
 - Country-wise respondent distribution
-- Favourite programming language and Corresponding Job Role of Survey Responders 
+- Favourite programming language and Corresponding Job Role of Survey Responders
+
+![Page 1](Dashboards/Dashboard_1.png)
+
+
+---
 
 ### 2 – Career Satisfaction & Entry Difficulty
 
-![Page 2](Dashboards/Dashboard_2.png)
 - Satisfaction with current role
 - Happiness with current salary
 - Difficulty level to break into data roles
+  
+![Page 2](Dashboards/Dashboard_2.png)
+
+---
 
 ## Dataset
 Public Data Professional Survey dataset.
+
+---
 
 ## Author
 Abhay Sharma
