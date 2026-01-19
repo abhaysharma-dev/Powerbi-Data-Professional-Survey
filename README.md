@@ -17,14 +17,16 @@ data professionals across different roles, countries, and programming background
 - Majority of survey responses come from the United States.
 
 ## Dashboard Pages
-**Page 1 – Executive Overview**
+### 1 – Executive Overview
+
 ![Page 1](Dashboards/Dashboard_1.png)
 - Total respondents and average age
 - Average salary by job title
 - Country-wise respondent distribution
 - Favourite programming language and Corresponding Job Role of Survey Responders 
 
-**Page 2 – Career Satisfaction & Entry Difficulty**
+### 2 – Career Satisfaction & Entry Difficulty**
+
 ![Page 2](Dashboards/Dashboard_2.png)
 - Satisfaction with current role
 - Happiness with current salary
