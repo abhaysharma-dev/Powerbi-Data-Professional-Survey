@@ -32,7 +32,6 @@ data professionals across different roles, countries, and programming background
 
 ![Page 1](Dashboards/Dashboard_1.png)
 
-
 ---
 
 ### 2 – Career Satisfaction & Entry Difficulty
